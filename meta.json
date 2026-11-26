@@ -1,0 +1,25 @@
+{
+  "repo": "mullvad-vpn-privacy-client-2026",
+  "product": "Mullvad VPN Privacy Client 2026",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "mullvad-vpn-privacy-client-2026",
+    "mullvad-vpn",
+    "mullvad-vpn-2026",
+    "mullvad-vpn-client",
+    "mullvad-vpn-2026-client",
+    "vpn-client",
+    "how-to-install-mullvad-vpn",
+    "how-to-setup-mullvad-vpn",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Mullvad VPN Privacy Client 2026"
+}
